@@ -24,6 +24,11 @@ footer{
   color: white;
   text-align: center;
   z-index:2;
+  font-family: "Montserrat", sans-serif;
+}
+footer a{
+  text-decoration: none;
+  color:inherit;
 }
 #card{
   width: 50%!important;
